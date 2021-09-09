@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://atorrescogollo.github.io/cerebrum-misc/sitemap.xml
